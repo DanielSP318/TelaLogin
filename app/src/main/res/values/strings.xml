@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLogin</string>
+    <string name="digite_usuario">Digite o seu Usuário</string>
+    <string name="digite_senha">Digite a sua Senha</string>
+    <string name="bt_entrar">Entrar</string>
+    <string name="bt_sair">Sair</string>
+    <string name="logo">Logo marca da empresa</string>
+</resources>
